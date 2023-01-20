@@ -1,0 +1,4 @@
+name: NexusReports
+version: '${project.version}'
+main: me.yukinox.nexusreports.nexusreports.NexusReports
+api-version: 1.19
